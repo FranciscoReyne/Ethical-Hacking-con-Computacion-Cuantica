@@ -1,6 +1,12 @@
 # **Casos Prácticos de Ethical Hacking con Computación Cuántica**
 
 
+<p align="center">
+  
+<img src="img.png" width="300"/>
+
+</p>
+
 Estos casos prácticos permiten explorar diferentes escenarios de ciberseguridad y cómo la computación cuántica podría representar una amenaza a los métodos criptográficos actuales. Las herramientas mencionadas ofrecen una base sólida para realizar experimentos y comprender mejor el impacto de la computación cuántica en la seguridad.
 ---
 
